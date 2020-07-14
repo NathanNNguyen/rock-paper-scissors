@@ -68,4 +68,3 @@ class LinkedList:
         return val
 
     # def traverse
-
